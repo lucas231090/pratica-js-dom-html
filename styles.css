@@ -42,3 +42,7 @@ button:hover {
 button:active {
   background-color: #6a0094;
 }
+
+footer {
+  margin-top: 45px;
+}
